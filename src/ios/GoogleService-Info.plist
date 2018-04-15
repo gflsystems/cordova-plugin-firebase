@@ -2,5 +2,39 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>257310904905-6uek9itp1s7dfpddt2m3g826l39tc0eq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.257310904905-6uek9itp1s7dfpddt2m3g826l39tc0eq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDskeysn4Ak-tIlOeAPbO2sMm67LJf5LWI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>257310904905</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.holvan.oncall</string>
+	<key>PROJECT_ID</key>
+	<string>holvan-on-call</string>
+	<key>STORAGE_BUCKET</key>
+	<string>holvan-on-call.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:257310904905:ios:31d6267ee7996b2c</string>
+	<key>DATABASE_URL</key>
+	<string>https://holvan-on-call.firebaseio.com</string>
 </dict>
 </plist>
