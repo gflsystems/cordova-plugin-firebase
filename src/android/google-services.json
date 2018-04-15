@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "257310904905",
+    "firebase_url": "https://holvan-on-call.firebaseio.com",
+    "project_id": "holvan-on-call",
+    "storage_bucket": "holvan-on-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257310904905:android:31d6267ee7996b2c",
+        "android_client_info": {
+          "package_name": "com.holvan.oncall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257310904905-u7tohmo09a9f5k1kilj40kt9ieddbch4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyi8wkdiiYdN_JX-HnYDHFJ0cpynsrKs4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
