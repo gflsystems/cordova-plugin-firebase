@@ -75,12 +75,9 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 				<param name="onload" value="true" />
 			</feature>
 		</config-file>
-		<config-file parent="aps-environment" target="*/Entitlements-Debug.plist">
-		    <string>development</string>
-		</config-file>
-		<config-file parent="aps-environment" target="*/Entitlements-Release.plist">
-			<string>production</string>
-		</config-file>
+		  <config-file target="*.entitlements" parent="aps-environment">
+			<string>development</string>
+		    </config-file>
 
 		<resource-file src="src/ios/GoogleService-Info.plist" />
 
